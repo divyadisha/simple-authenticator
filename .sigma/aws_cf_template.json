@@ -491,7 +491,7 @@
         "Principal": "apigateway.amazonaws.com"
       }
     },
-    "apigauthApiDeployment1620389940215": {
+    "apigauthApiDeployment1620392557542": {
       "Type": "AWS::ApiGateway::Deployment",
       "Properties": {
         "RestApiId": {
